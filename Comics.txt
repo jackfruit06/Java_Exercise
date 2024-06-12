@@ -1,0 +1,39 @@
+6
+S000
+Attack on Champhloo - 000
+false
+6
+509.68
+3
+false
+N001
+Attack on League - 001
+true
+0
+282.8
+N002
+Samurai Single - 002
+false
+7
+272.2
+S003
+Samurai Piece - 003
+false
+9
+530.64
+1
+true
+S004
+Fullmetal Champhloo - 004
+true
+0
+525.22
+2
+false
+S005
+Samurai League - 005
+true
+5
+585.02
+2
+false
